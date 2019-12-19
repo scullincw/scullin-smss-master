@@ -15,6 +15,7 @@
 <link href="h-ui/lib/icheck/icheck.css" rel="stylesheet" type="text/css" />
 <link href="h-ui/lib/Hui-iconfont/1.0.1/iconfont.css" rel="stylesheet" type="text/css" />
 
+<link rel="stylesheet" type="text/css" href="style/my.css">
 <link rel="stylesheet" type="text/css" href="easyui/themes/default/easyui.css">
 <link rel="stylesheet" type="text/css" href="easyui/themes/icon.css">
 
@@ -128,7 +129,7 @@
     </form>
   </div>
 </div>
-<div class="footer">Copyright &nbsp; SWU @ Lizhou </div>
+<div class="footer">Copyright &nbsp; ZUEL @ Scullincw </div>
 
 
 </body>
