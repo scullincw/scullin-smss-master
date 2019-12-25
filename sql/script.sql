@@ -12,4 +12,4 @@ SELECT * FROM teacher;
 DELETE FROM teacher
 WHERE id = 1;
 
-SELECT * FROM smss.system;
+SELECT * FROM `system`;
